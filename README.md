@@ -155,19 +155,19 @@ Open your browser at `http://localhost:8501`.
 ## 📸 Screenshots
 
 ### Home Page
-![Dashboard Home](c:\Users\souna\OneDrive\Documents\homepage.png)
+![Dashboard Home](<img width="1910" height="777" alt="homepage" src="https://github.com/user-attachments/assets/ea9f1629-df05-484d-8dff-261bf086f46a" />)
 
 ### Business Overview
-![Overview KPIs](c:\Users\souna\OneDrive\Documents\Business-Overview.png)
+![Overview KPIs](<img width="1902" height="882" alt="Business-Overview" src="https://github.com/user-attachments/assets/5b233bc5-4a1a-4684-a2a9-6c044de595f3" />)
 
 ### Sales Analytics
-![Sales Analytics](c:\Users\souna\OneDrive\Documents\Sales-Analytics.png)
+![Sales Analytics](<img width="1880" height="825" alt="Sales-Analytics" src="https://github.com/user-attachments/assets/0f8e5dea-ba08-49a1-86ee-61ea93467e74" />)
 
 ### Customer Analytics
-![Customer Analytics](c:\Users\souna\OneDrive\Documents\Customer-Analytics.png)
+![Customer Analytics](<img width="1900" height="792" alt="Customer-Analytics" src="https://github.com/user-attachments/assets/1231faa4-a030-4219-8e48-c6084529dc3f" />)
 
 ### Inventory Management
-![Inventory Dashboard](c:\Users\souna\OneDrive\Documents\Inventory-Analytics.png)
+![Inventory Dashboard](<img width="1878" height="771" alt="Inventory-Analytics" src="https://github.com/user-attachments/assets/1411d2d4-f03a-411b-864d-3dd078efac1e" />)
 
 ---
 
